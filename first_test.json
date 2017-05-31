@@ -1,0 +1,1828 @@
+{
+    "ErrorCode": {
+        "Description": "Success (hidden)", 
+        "Id": 200, 
+        "Status": "Pins-Via-Cache:false;Sidebar-Items-Via-Cache:7;"
+    }, 
+    "Paging": {
+        "CurrentPage": 1, 
+        "MaxRecords": 15000, 
+        "Pins": 110, 
+        "RecordsPerPage": 9, 
+        "RecordsShowing": 186, 
+        "TotalPages": 21, 
+        "TotalRecords": 186
+    }, 
+    "Pins": [
+        {
+            "count": 1, 
+            "key": "L10|43.438|-79.69", 
+            "latitude": "43.438", 
+            "longitude": "-79.69", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.438|-79.692", 
+            "latitude": "43.438", 
+            "longitude": "-79.692", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.438|-79.714", 
+            "latitude": "43.438", 
+            "longitude": "-79.714", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.438|-79.716", 
+            "latitude": "43.438", 
+            "longitude": "-79.716", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.438|-79.718", 
+            "latitude": "43.438", 
+            "longitude": "-79.718", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.44|-79.682", 
+            "latitude": "43.44", 
+            "longitude": "-79.682", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.44|-79.686", 
+            "latitude": "43.44", 
+            "longitude": "-79.686", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.44|-79.692", 
+            "latitude": "43.44", 
+            "longitude": "-79.692", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.44|-79.712", 
+            "latitude": "43.44", 
+            "longitude": "-79.712", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.442|-79.674", 
+            "latitude": "43.442", 
+            "longitude": "-79.674", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.442|-79.676", 
+            "latitude": "43.442", 
+            "longitude": "-79.676", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.442|-79.68", 
+            "latitude": "43.442", 
+            "longitude": "-79.68", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.442|-79.684", 
+            "latitude": "43.442", 
+            "longitude": "-79.684", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.442|-79.71", 
+            "latitude": "43.442", 
+            "longitude": "-79.71", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.442|-79.712", 
+            "latitude": "43.442", 
+            "longitude": "-79.712", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.444|-79.666", 
+            "latitude": "43.444", 
+            "longitude": "-79.666", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.444|-79.67", 
+            "latitude": "43.444", 
+            "longitude": "-79.67", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.444|-79.686", 
+            "latitude": "43.444", 
+            "longitude": "-79.686", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.444|-79.688", 
+            "latitude": "43.444", 
+            "longitude": "-79.688", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.444|-79.722", 
+            "latitude": "43.444", 
+            "longitude": "-79.722", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.446|-79.678", 
+            "latitude": "43.446", 
+            "longitude": "-79.678", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.446|-79.684", 
+            "latitude": "43.446", 
+            "longitude": "-79.684", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.446|-79.722", 
+            "latitude": "43.446", 
+            "longitude": "-79.722", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.448|-79.664", 
+            "latitude": "43.448", 
+            "longitude": "-79.664", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.448|-79.672", 
+            "latitude": "43.448", 
+            "longitude": "-79.672", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.448|-79.674", 
+            "latitude": "43.448", 
+            "longitude": "-79.674", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.448|-79.676", 
+            "latitude": "43.448", 
+            "longitude": "-79.676", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.448|-79.678", 
+            "latitude": "43.448", 
+            "longitude": "-79.678", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 4, 
+            "key": "L10|43.448|-79.682", 
+            "latitude": "43.448", 
+            "longitude": "-79.682", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.448|-79.712", 
+            "latitude": "43.448", 
+            "longitude": "-79.712", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.45|-79.662", 
+            "latitude": "43.45", 
+            "longitude": "-79.662", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.45|-79.68", 
+            "latitude": "43.45", 
+            "longitude": "-79.68", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.45|-79.682", 
+            "latitude": "43.45", 
+            "longitude": "-79.682", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.452|-79.68", 
+            "latitude": "43.452", 
+            "longitude": "-79.68", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.454|-79.668", 
+            "latitude": "43.454", 
+            "longitude": "-79.668", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.454|-79.672", 
+            "latitude": "43.454", 
+            "longitude": "-79.672", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.454|-79.68", 
+            "latitude": "43.454", 
+            "longitude": "-79.68", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 5, 
+            "key": "L10|43.454|-79.694", 
+            "latitude": "43.454", 
+            "longitude": "-79.694", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 4, 
+            "key": "L10|43.454|-79.704", 
+            "latitude": "43.454", 
+            "longitude": "-79.704", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.456|-79.67", 
+            "latitude": "43.456", 
+            "longitude": "-79.67", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.456|-79.69", 
+            "latitude": "43.456", 
+            "longitude": "-79.69", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.456|-79.692", 
+            "latitude": "43.456", 
+            "longitude": "-79.692", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.456|-79.694", 
+            "latitude": "43.456", 
+            "longitude": "-79.694", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.456|-79.696", 
+            "latitude": "43.456", 
+            "longitude": "-79.696", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.456|-79.71", 
+            "latitude": "43.456", 
+            "longitude": "-79.71", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.456|-79.716", 
+            "latitude": "43.456", 
+            "longitude": "-79.716", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.458|-79.676", 
+            "latitude": "43.458", 
+            "longitude": "-79.676", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.46|-79.656", 
+            "latitude": "43.46", 
+            "longitude": "-79.656", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.46|-79.674", 
+            "latitude": "43.46", 
+            "longitude": "-79.674", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.46|-79.69", 
+            "latitude": "43.46", 
+            "longitude": "-79.69", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.46|-79.692", 
+            "latitude": "43.46", 
+            "longitude": "-79.692", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.46|-79.702", 
+            "latitude": "43.46", 
+            "longitude": "-79.702", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.46|-79.706", 
+            "latitude": "43.46", 
+            "longitude": "-79.706", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 4, 
+            "key": "L10|43.46|-79.71", 
+            "latitude": "43.46", 
+            "longitude": "-79.71", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.46|-79.714", 
+            "latitude": "43.46", 
+            "longitude": "-79.714", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.46|-79.716", 
+            "latitude": "43.46", 
+            "longitude": "-79.716", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.462|-79.666", 
+            "latitude": "43.462", 
+            "longitude": "-79.666", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.462|-79.672", 
+            "latitude": "43.462", 
+            "longitude": "-79.672", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.462|-79.692", 
+            "latitude": "43.462", 
+            "longitude": "-79.692", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.462|-79.696", 
+            "latitude": "43.462", 
+            "longitude": "-79.696", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.462|-79.712", 
+            "latitude": "43.462", 
+            "longitude": "-79.712", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.462|-79.714", 
+            "latitude": "43.462", 
+            "longitude": "-79.714", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.464|-79.656", 
+            "latitude": "43.464", 
+            "longitude": "-79.656", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.464|-79.658", 
+            "latitude": "43.464", 
+            "longitude": "-79.658", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.464|-79.67", 
+            "latitude": "43.464", 
+            "longitude": "-79.67", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.464|-79.672", 
+            "latitude": "43.464", 
+            "longitude": "-79.672", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.464|-79.716", 
+            "latitude": "43.464", 
+            "longitude": "-79.716", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.464|-79.72", 
+            "latitude": "43.464", 
+            "longitude": "-79.72", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.464|-79.724", 
+            "latitude": "43.464", 
+            "longitude": "-79.724", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 4, 
+            "key": "L10|43.466|-79.658", 
+            "latitude": "43.466", 
+            "longitude": "-79.658", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.466|-79.668", 
+            "latitude": "43.466", 
+            "longitude": "-79.668", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.466|-79.67", 
+            "latitude": "43.466", 
+            "longitude": "-79.67", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.466|-79.696", 
+            "latitude": "43.466", 
+            "longitude": "-79.696", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.466|-79.718", 
+            "latitude": "43.466", 
+            "longitude": "-79.718", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.468|-79.652", 
+            "latitude": "43.468", 
+            "longitude": "-79.652", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.468|-79.662", 
+            "latitude": "43.468", 
+            "longitude": "-79.662", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.468|-79.666", 
+            "latitude": "43.468", 
+            "longitude": "-79.666", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.47|-79.648", 
+            "latitude": "43.47", 
+            "longitude": "-79.648", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.47|-79.65", 
+            "latitude": "43.47", 
+            "longitude": "-79.65", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.47|-79.692", 
+            "latitude": "43.47", 
+            "longitude": "-79.692", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.47|-79.704", 
+            "latitude": "43.47", 
+            "longitude": "-79.704", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 3, 
+            "key": "L10|43.47|-79.71", 
+            "latitude": "43.47", 
+            "longitude": "-79.71", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.47|-79.72", 
+            "latitude": "43.47", 
+            "longitude": "-79.72", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.472|-79.648", 
+            "latitude": "43.472", 
+            "longitude": "-79.648", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.472|-79.662", 
+            "latitude": "43.472", 
+            "longitude": "-79.662", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.472|-79.688", 
+            "latitude": "43.472", 
+            "longitude": "-79.688", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.472|-79.69", 
+            "latitude": "43.472", 
+            "longitude": "-79.69", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.472|-79.692", 
+            "latitude": "43.472", 
+            "longitude": "-79.692", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.472|-79.706", 
+            "latitude": "43.472", 
+            "longitude": "-79.706", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.472|-79.708", 
+            "latitude": "43.472", 
+            "longitude": "-79.708", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.472|-79.716", 
+            "latitude": "43.472", 
+            "longitude": "-79.716", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.474|-79.638", 
+            "latitude": "43.474", 
+            "longitude": "-79.638", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.474|-79.642", 
+            "latitude": "43.474", 
+            "longitude": "-79.642", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.474|-79.644", 
+            "latitude": "43.474", 
+            "longitude": "-79.644", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.474|-79.656", 
+            "latitude": "43.474", 
+            "longitude": "-79.656", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.474|-79.66", 
+            "latitude": "43.474", 
+            "longitude": "-79.66", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.474|-79.704", 
+            "latitude": "43.474", 
+            "longitude": "-79.704", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.474|-79.706", 
+            "latitude": "43.474", 
+            "longitude": "-79.706", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.474|-79.71", 
+            "latitude": "43.474", 
+            "longitude": "-79.71", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.474|-79.716", 
+            "latitude": "43.474", 
+            "longitude": "-79.716", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.474|-79.718", 
+            "latitude": "43.474", 
+            "longitude": "-79.718", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.476|-79.636", 
+            "latitude": "43.476", 
+            "longitude": "-79.636", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.476|-79.638", 
+            "latitude": "43.476", 
+            "longitude": "-79.638", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.476|-79.642", 
+            "latitude": "43.476", 
+            "longitude": "-79.642", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.476|-79.658", 
+            "latitude": "43.476", 
+            "longitude": "-79.658", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.476|-79.694", 
+            "latitude": "43.476", 
+            "longitude": "-79.694", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.476|-79.696", 
+            "latitude": "43.476", 
+            "longitude": "-79.696", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 2, 
+            "key": "L10|43.476|-79.7", 
+            "latitude": "43.476", 
+            "longitude": "-79.7", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.476|-79.72", 
+            "latitude": "43.476", 
+            "longitude": "-79.72", 
+            "propertyId": ""
+        }, 
+        {
+            "count": 1, 
+            "key": "L10|43.478|-79.72", 
+            "latitude": "43.478", 
+            "longitude": "-79.72", 
+            "propertyId": ""
+        }
+    ], 
+    "Results": [
+        {
+            "Building": {
+                "BathroomTotal": "2", 
+                "Bedrooms": "3 + 1", 
+                "StoriesTotal": "2", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18164217", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "398477988"
+                        }
+                    ], 
+                    "FirstName": "GARRY", 
+                    "IndividualID": 1969055, 
+                    "LastName": "RAI", 
+                    "Name": "GARRY RAI", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "1210 LORIMAR DRIVE UNIT 3|MISSISSAUGA, ON L5S1R3"
+                        }, 
+                        "Designation": "Brokerage", 
+                        "Emails": [
+                            {
+                                "ContactId": "398908024"
+                            }
+                        ], 
+                        "HasEmail": true, 
+                        "Name": "ZUMIN REAL ESTATE CENTRE", 
+                        "OrganizationID": 279293, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "416", 
+                                "PhoneNumber": "333-4100", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "416", 
+                                "PhoneNumber": "391-6200", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "416", 
+                            "PhoneNumber": "333-4100", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }
+                    ], 
+                    "Position": "Broker"
+                }
+            ], 
+            "Land": {
+                "SizeTotal": "28.46x91.08 FT"
+            }, 
+            "MlsNumber": "W3802096", 
+            "PostalCode": "L6H2N9", 
+            "Property": {
+                "Address": {
+                    "AddressText": "78 ORSETT Street |Oakville, Ontario L6H2N9", 
+                    "Latitude": "43.46038", 
+                    "Longitude": "-79.70656"
+                }, 
+                "OwnershipType": "Freehold", 
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }
+                ], 
+                "ParkingSpaceTotal": "2", 
+                "Price": "$648,888", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Calling On All First Time Buyers, Handymen, Renovators, And Those Seeking An Affordable Home In College Park! This 2 Bedroom Semi Offers Many Options To Make It Your Own. Main Floor Renovations Can Provide You With An Open Concept And Combined Living Space With A Wow Factor. 3 Spacious Bedrooms On The 2nd Floor And Finished Basement Make This Home A Great Option. Buy This Home As Is Or Choose Your Finishes And Have It Made Move In Ready With Your Choices!!! **** EXTRAS **** All Appliances As Is, Cac & Related Equipment, Window Coverings As Is & Elfs As Is. Close To Transit & Trafalgar Go-Station. White Oaks Ss & Sunningdale Ps Schoold District.", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18164217/78-ORSETT-Street-Oakville-Ontario-L6H2N9-College-Park", 
+            "StatusId": "1"
+        }, 
+        {
+            "Building": {
+                "BathroomTotal": "2", 
+                "Bedrooms": "4", 
+                "StoriesTotal": "2", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18113152", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "398077932"
+                        }
+                    ], 
+                    "FirstName": "CARL", 
+                    "IndividualID": 1421017, 
+                    "LastName": "DEFREITAS", 
+                    "Name": "CARL DEFREITAS", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "96 REXDALE BLVD.|TORONTO, ON M9W1N7"
+                        }, 
+                        "Designation": "Brokerage", 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/1003018.jpg", 
+                        "Name": "RE/MAX WEST REALTY INC.", 
+                        "OrganizationID": 51195, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "416", 
+                                "PhoneNumber": "745-2300", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "416", 
+                                "PhoneNumber": "745-1952", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ], 
+                        "Websites": [
+                            {
+                                "Website": "http://www.remaxwest.com", 
+                                "WebsiteTypeId": "1"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "416", 
+                            "PhoneNumber": "745-2300", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }
+                    ], 
+                    "Position": "Salesperson"
+                }
+            ], 
+            "Land": {
+                "SizeTotal": "39.93x111.79 FT"
+            }, 
+            "MlsNumber": "W3786608", 
+            "PhotoChangeDateUTC": "03/05/2017 11:36:12 PM", 
+            "PostalCode": "L6H1G1", 
+            "Property": {
+                "Address": {
+                    "AddressText": "24 OSBORNE Crescent |Oakville, Ontario L6H1G1", 
+                    "Latitude": "43.4595", 
+                    "Longitude": "-79.70283"
+                }, 
+                "OwnershipType": "Freehold", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636294369725470000/reb82/highres/8/w3786608_1.jpg", 
+                        "LastUpdated": "03/05/2017 7:36:12 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636294369725470000/reb82/lowres/8/w3786608_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636294369725470000/reb82/medres/8/w3786608_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$699,000", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "** Quiet Mature Crescent In North Oakville, Fully Detached 4-Bedrooms, 2-Storey Home, Hardwood Floors In All Bedrooms, Living/Dining Rooms ** \"\"Large Home In Desirable Neighborhood\"\" ** \"\"Immaculate Condition\"\"!!! ** **** EXTRAS **** *** Elf's,Fridge,Stove,Washer & Dryer,All Window Coverings,Gb+E,Central Air * Bruce Premium Laminate Flooring In Living Room & Dining Room - Bedrooms Have Strip Hardwood Flooring ***", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18113152/24-OSBORNE-Crescent-Oakville-Ontario-L6H1G1-College-Park", 
+            "StatusId": "1"
+        }, 
+        {
+            "Building": {
+                "BathroomTotal": "3", 
+                "Bedrooms": "3 + 1", 
+                "StoriesTotal": "2", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18159222", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "397661240"
+                        }
+                    ], 
+                    "FirstName": "KEVIN MICHAEL J.", 
+                    "IndividualID": 1755819, 
+                    "LastName": "CONROY", 
+                    "Name": "KEVIN MICHAEL J. CONROY", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "251 NORTH SERVICE ROAD STE|#101|OAKVILLE, ON L6M3E7"
+                        }, 
+                        "Designation": "Brokerage", 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/50677.jpg", 
+                        "Name": "ROYAL LEPAGE REAL ESTATE SERVICES LTD.", 
+                        "OrganizationID": 50677, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "849-3315", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "338-7351", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "849-3315", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }
+                    ], 
+                    "Position": "Salesperson"
+                }
+            ], 
+            "Land": {
+                "SizeTotal": "19.14x126.09 FT"
+            }, 
+            "MlsNumber": "W3800513", 
+            "PhotoChangeDateUTC": "12/05/2017 6:25:06 PM", 
+            "PostalCode": "L6M2E5", 
+            "Property": {
+                "Address": {
+                    "AddressText": "1072 EDGEHILL Place |Oakville, Ontario L6M2E5", 
+                    "Latitude": "43.44009", 
+                    "Longitude": "-79.7119"
+                }, 
+                "AmmenitiesNearBy": "Hospital, Park, Schools", 
+                "OwnershipType": "Freehold", 
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }
+                ], 
+                "ParkingSpaceTotal": "3", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636301959058330000/reb82/highres/3/w3800513_1.jpg", 
+                        "LastUpdated": "12/05/2017 2:25:05 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636301959058330000/reb82/lowres/3/w3800513_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636301959058330000/reb82/medres/3/w3800513_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$749,000", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Wonderful Family Home On A Quiet Court On Ravine In Prime Glen Abbey. Difficult To Find A Better Location. Sunny Southwest Exposure. Great Schools, Many Ravines And Trails. Convenient To All Amenties Including Shopping & The Qew. **** EXTRAS **** Fridge, Stove,B/I Dw, Washer & Dryer, All Elfs, All Window Cvgs Incl Cal Shutters,", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18159222/1072-EDGEHILL-Place-Oakville-Ontario-L6M2E5-Glen-Abbey", 
+            "StatusId": "1"
+        }, 
+        {
+            "Building": {
+                "BathroomTotal": "3", 
+                "Bedrooms": "3 + 1", 
+                "SizeInterior": "1500 sqft", 
+                "StoriesTotal": "2", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18158160", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "396211156"
+                        }
+                    ], 
+                    "FirstName": "Kevin", 
+                    "IndividualID": 1388614, 
+                    "LastName": "Conroy", 
+                    "Name": "Kevin M. J Conroy", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "326 Lakeshore Road East|Oakville, ON L6J1J6"
+                        }, 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/royallepage.gif", 
+                        "Name": "Royal LePage Real Estate Services Ltd., Brokerage", 
+                        "OrganizationID": 205093, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "845-4267", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "845-2052", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ], 
+                        "Websites": [
+                            {
+                                "Website": "http://www.royallepagedowntownoakville.ca", 
+                                "WebsiteTypeId": "1"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "330-9197", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }, 
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "845-2052", 
+                            "PhoneType": "Fax", 
+                            "PhoneTypeId": "4"
+                        }
+                    ], 
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1035937.jpg", 
+                    "Position": "Salesperson"
+                }
+            ], 
+            "Land": {
+                "SizeFrontage": "19 ft", 
+                "SizeTotal": "under 1/2 acre"
+            }, 
+            "MlsNumber": "30574338", 
+            "OpenHouseInsertDateUTC": "18/05/2017 7:11:10 PM", 
+            "PhotoChangeDateUTC": "12/05/2017 7:25:46 PM", 
+            "PostalCode": "L6M2E5", 
+            "Property": {
+                "Address": {
+                    "AddressText": "1072 Edgehill Place|Oakville, Ontario L6M2E5", 
+                    "Latitude": "43.440232", 
+                    "Longitude": "-79.711852"
+                }, 
+                "AmmenitiesNearBy": "Golf Course, Hospital, Public Transit, Recreation, Schools", 
+                "OwnershipType": "Freehold", 
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }, 
+                    {
+                        "Name": "Shared"
+                    }
+                ], 
+                "ParkingSpaceTotal": "3", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636301995456000000/reb15/highres/8/30574338_1.jpg", 
+                        "LastUpdated": "12/05/2017 3:25:45 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636301995456000000/reb15/lowres/8/30574338_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636301995456000000/reb15/medres/8/30574338_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$749,000", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Wonderful family home on a quiet court on ravine in prime Glen Abbey. Difficult to find a better location. Sunny Southwest exposure.  Great schools, many ravines and trails.  Convenient to all amenities including shopping as well as the QEW.", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18158160/1072-Edgehill-Place-Oakville-Ontario-L6M2E5", 
+            "StatusId": "1"
+        }, 
+        {
+            "Building": {
+                "BathroomTotal": "3", 
+                "Bedrooms": "3", 
+                "StoriesTotal": "3", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18178013", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "397836934"
+                        }
+                    ], 
+                    "FirstName": "ANNA", 
+                    "IndividualID": 1906126, 
+                    "LastName": "FAN", 
+                    "Name": "ANNA FAN", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "32 VILLAGE CENTRE PL #200|MISSISSAUGA, ON L4Z1V9"
+                        }, 
+                        "Designation": "Brokerage", 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/274978.JPG", 
+                        "Name": "REAL ONE REALTY INC.", 
+                        "OrganizationID": 274978, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "281-2888", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "281-2880", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "416", 
+                            "PhoneNumber": "873-9228", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }, 
+                        {
+                            "AreaCode": "416", 
+                            "PhoneNumber": "873-9228", 
+                            "PhoneType": "Toll Free", 
+                            "PhoneTypeId": "5"
+                        }
+                    ], 
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1906126.jpg", 
+                    "Position": "Salesperson", 
+                    "Websites": [
+                        {
+                            "Website": "http://www.annafanhomes.ca", 
+                            "WebsiteTypeId": "1"
+                        }
+                    ]
+                }
+            ], 
+            "Land": {
+                "SizeTotal": "26.67x94.16 FT"
+            }, 
+            "MlsNumber": "W3805864", 
+            "OpenHouseInsertDateUTC": "18/05/2017 1:02:29 AM", 
+            "PhotoChangeDateUTC": "18/05/2017 9:48:09 PM", 
+            "PostalCode": "L6H6V4", 
+            "Property": {
+                "Address": {
+                    "AddressText": "106 ROXTON Road |Oakville, Ontario L6H6V4", 
+                    "Latitude": "43.47711", 
+                    "Longitude": "-79.71992"
+                }, 
+                "OwnershipType": "Freehold", 
+                "Parking": [
+                    {
+                        "Name": "Detached garage"
+                    }
+                ], 
+                "ParkingSpaceTotal": "2", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636307264895170000/reb82/highres/4/w3805864_1.jpg", 
+                        "LastUpdated": "18/05/2017 5:48:09 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636307264895170000/reb82/lowres/4/w3805864_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636307264895170000/reb82/medres/4/w3805864_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$759,900", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Beautiful Semi-Detached Home With Double Car Garage In Uptown Core. Hardwood Floor Through Out The 1st/2nd Floor. 3 Spacious Bedroom With The 4th Potential Bedroom On 2nd Floor. Stunning Eat-In Gourmet Kitchen With Bright/Spacious Breakfast Area. Central Island, Stone Counter Top With Extra Storage And Pantry. Laundry With Built-In Shelf On 2nd Floor. New Roof (2016), New Fridge (2014), Furnace Replaced(2014), 2nd Floor Hardwood (2013), Hot Water Tank Owned. **** EXTRAS **** All Elf's, All Window Covers, Fridge, Stove, Washer/Dryer, Dishwasher (As Is).", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18178013/106-ROXTON-Road-Oakville-Ontario-L6H6V4-Uptown-Core", 
+            "StatusId": "1"
+        }, 
+        {
+            "Building": {
+                "BathroomTotal": "1", 
+                "Bedrooms": "2", 
+                "StoriesTotal": "1", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18156807", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "391305572"
+                        }
+                    ], 
+                    "FirstName": "KERRY ANNE", 
+                    "IndividualID": 1407052, 
+                    "LastName": "HALL", 
+                    "Name": "KERRY ANNE HALL", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "1235 NORTH SERVICE RD W #100|OAKVILLE, ON L6M2W2"
+                        }, 
+                        "Designation": "Brokerage", 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/50418.jpg", 
+                        "Name": "RE/MAX ABOUTOWNE REALTY CORP.", 
+                        "OrganizationID": 50418, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "842-7000", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "842-7010", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "842-7000", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }
+                    ], 
+                    "Position": "Salesperson"
+                }
+            ], 
+            "Land": {
+                "SizeTotal": "55.00x120.00 FT"
+            }, 
+            "MlsNumber": "W3799823", 
+            "PhotoChangeDateUTC": "12/05/2017 6:24:41 PM", 
+            "PostalCode": "L6K2X9", 
+            "Property": {
+                "Address": {
+                    "AddressText": "305 FELAN Avenue |Oakville, Ontario L6K2X9", 
+                    "Latitude": "43.44254", 
+                    "Longitude": "-79.68411"
+                }, 
+                "OwnershipType": "Freehold", 
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }
+                ], 
+                "ParkingSpaceTotal": "3", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636301958811630000/reb82/highres/3/w3799823_1.jpg", 
+                        "LastUpdated": "12/05/2017 2:24:41 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636301958811630000/reb82/lowres/3/w3799823_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636301958811630000/reb82/medres/3/w3799823_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$789,000", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Great Opportunity To Build In Trendy \"\"Kerr Village\"\". House On Property In As Is Condition , Mainly Land Value. Zoning Is Rl5-0 .", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18156807/305-FELAN-Avenue-Oakville-Ontario-L6K2X9-Old-Oakville", 
+            "StatusId": "1"
+        }, 
+        {
+            "Building": {
+                "BathroomTotal": "0", 
+                "Bedrooms": "0", 
+                "SizeInterior": "1000 sqft", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18155870", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "396145893"
+                        }
+                    ], 
+                    "FirstName": "Ed", 
+                    "IndividualID": 1388617, 
+                    "LastName": "Pryla", 
+                    "Name": "Ed Pryla", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "309 Lakeshore Road East Unit A|Oakville, ON L6J1J3"
+                        }, 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/remaxoa.gif", 
+                        "Name": "RE/MAX Aboutowne Realty Corp., Brokerage", 
+                        "OrganizationID": 47557, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "338-9000", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "338-3411", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "808-1551", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }, 
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "338-3411", 
+                            "PhoneType": "Fax", 
+                            "PhoneTypeId": "4"
+                        }
+                    ], 
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1061703.jpg", 
+                    "Position": "Salesperson", 
+                    "Websites": [
+                        {
+                            "Website": "http://edandkerry.com", 
+                            "WebsiteTypeId": "1"
+                        }
+                    ]
+                }, 
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "396149025"
+                        }
+                    ], 
+                    "FirstName": "Kerry-Anne", 
+                    "IndividualID": 1388584, 
+                    "LastName": "Hall", 
+                    "Name": "Kerry-Anne Hall", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "309 Lakeshore Road East Unit A|Oakville, ON L6J1J3"
+                        }, 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/remaxoa.gif", 
+                        "Name": "RE/MAX Aboutowne Realty Corp., Brokerage", 
+                        "OrganizationID": 47557, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "338-9000", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "338-3411", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "416", 
+                            "PhoneNumber": "738-1303", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }, 
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "338-3411", 
+                            "PhoneType": "Fax", 
+                            "PhoneTypeId": "4"
+                        }
+                    ], 
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1035868.jpg", 
+                    "Position": "Salesperson", 
+                    "Websites": [
+                        {
+                            "Website": "http://edandkerry.com", 
+                            "WebsiteTypeId": "1"
+                        }
+                    ]
+                }
+            ], 
+            "Land": {
+                "SizeFrontage": "55 ft", 
+                "SizeTotal": "under 1/2 acre"
+            }, 
+            "MlsNumber": "30574176", 
+            "PhotoChangeDateUTC": "12/05/2017 5:31:35 PM", 
+            "PostalCode": "l6k2x9", 
+            "Property": {
+                "Address": {
+                    "AddressText": "305 Felan Avenue|Oakville, Ontario l6k2x9", 
+                    "Latitude": "43.442916", 
+                    "Longitude": "-79.684722"
+                }, 
+                "OwnershipType": "Freehold", 
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }
+                ], 
+                "ParkingSpaceTotal": "5", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636301926958430000/reb15/highres/6/30574176_1.jpg", 
+                        "LastUpdated": "12/05/2017 1:31:35 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636301926958430000/reb15/lowres/6/30574176_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636301926958430000/reb15/medres/6/30574176_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$789,000", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Great opportunity to build in trendy \"Kerr Village\" on a 55' x 120' Lot. Land Value. Survey is attached, Zoning is RL5-0 .", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18155870/305-Felan-Avenue-Oakville-Ontario-l6k2x9", 
+            "StatusId": "1"
+        }, 
+        {
+            "AlternateURL": {
+                "VideoLink": "https://youriguide.com/125_oakdale_dr_oakville_on"
+            }, 
+            "Building": {
+                "BathroomTotal": "2", 
+                "Bedrooms": "3 + 1", 
+                "SizeInterior": "1220 sqft", 
+                "StoriesTotal": "2", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18054259", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "396149653"
+                        }
+                    ], 
+                    "FirstName": "Jack", 
+                    "IndividualID": 1404076, 
+                    "LastName": "Ouellette", 
+                    "Name": "Jack Ouellette", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "105-231 Oak Park Blvd.|Oakville, ON L6H7S8"
+                        }, 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/royallepage.gif", 
+                        "Name": "Royal LePage Real Estate Services Ltd., Brokerage", 
+                        "OrganizationID": 118891, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "257-3633", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "257-3550", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ], 
+                        "Websites": [
+                            {
+                                "Website": "http://www.royallepageoakpark.ca", 
+                                "WebsiteTypeId": "1"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "399-5225", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }, 
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "257-3550", 
+                            "PhoneType": "Fax", 
+                            "PhoneTypeId": "4"
+                        }
+                    ], 
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1118377.jpg", 
+                    "Position": "Salesperson", 
+                    "Websites": [
+                        {
+                            "Website": "http://www.agentjack.ca", 
+                            "WebsiteTypeId": "1"
+                        }
+                    ]
+                }, 
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "Emails": [
+                        {
+                            "ContactId": "375564266"
+                        }
+                    ], 
+                    "FirstName": "Dena", 
+                    "IndividualID": 1913465, 
+                    "LastName": "Zlatar", 
+                    "Name": "Dena Zlatar", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "1122 Wilson Street West|Ancaster, ON L9G3K9"
+                        }, 
+                        "Designation": "Brokerage, Independently Owned and Operated", 
+                        "Emails": [
+                            {
+                                "ContactId": "399708497"
+                            }
+                        ], 
+                        "HasEmail": true, 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/royallepage.gif", 
+                        "Name": "Royal Lepage State Realty", 
+                        "OrganizationID": 55005, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "648-4451", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "648-7393", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ], 
+                        "Websites": [
+                            {
+                                "Website": "http://www.royallepagestate.ca", 
+                                "WebsiteTypeId": "1"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1223557.jpg", 
+                    "Position": "Salesperson"
+                }
+            ], 
+            "Land": {
+                "SizeFrontage": "40 ft", 
+                "SizeTotal": "under 1/2 acre"
+            }, 
+            "MlsNumber": "30569025", 
+            "OpenHouseInsertDateUTC": "19/05/2017 3:31:11 AM", 
+            "PhotoChangeDateUTC": "25/04/2017 7:26:20 PM", 
+            "PostalCode": "L6H1J4", 
+            "PriceChangeDateUTC": "28/04/2017 3:30:52 AM", 
+            "Property": {
+                "Address": {
+                    "AddressText": "125 OAKDALE Drive|Oakville, Ontario L6H1J4", 
+                    "Latitude": "43.45951", 
+                    "Longitude": "-79.71017"
+                }, 
+                "OwnershipType": "Freehold", 
+                "Parking": [
+                    {
+                        "Name": "No Garage"
+                    }
+                ], 
+                "ParkingSpaceTotal": "2", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636287307791100000/reb15/highres/5/30569025_1.jpg", 
+                        "LastUpdated": "25/04/2017 3:26:19 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636287307791100000/reb15/lowres/5/30569025_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636287307791100000/reb15/medres/5/30569025_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$798,000", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Location 10+... Sought after College Park Court Location & Move-in Ready...! This 3+1 bedroom, detached 2-storey home is waiting for you! Freshly painted and updated. Features include: hardwood flooring, L-shaped living room/dining room with patio doors to your backyard oasis and 16x32 inground pool; master bedroom has private balcony over-looking the manicured pool yard, separate entrance to fully finished in-law suite. Furnace 2017, Hot water tank 2011, windows 2016. Minutes to QEW, 407, Sheridan College, & walking distance to all schools including French Immersion. Don't be disappointed. Call for an appt today. RSA as per MPAC.", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18054259/125-OAKDALE-Drive-Oakville-Ontario-L6H1J4", 
+            "StatusId": "1"
+        }, 
+        {
+            "Building": {
+                "BathroomTotal": "2", 
+                "Bedrooms": "3 + 1", 
+                "StoriesTotal": "2", 
+                "Type": "House"
+            }, 
+            "Business": {}, 
+            "Id": "18055612", 
+            "Individual": [
+                {
+                    "CorporationDisplayTypeId": "0", 
+                    "DesignationCodes": "SRES", 
+                    "Emails": [
+                        {
+                            "ContactId": "397691354"
+                        }
+                    ], 
+                    "FirstName": "JACK", 
+                    "IndividualID": 1934821, 
+                    "LastName": "OUELLETTE", 
+                    "Name": "JACK OUELLETTE", 
+                    "Organization": {
+                        "Address": {
+                            "AddressText": "251 NORTH SERVICE ROAD STE|#101|OAKVILLE, ON L6M3E7"
+                        }, 
+                        "Designation": "Brokerage", 
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/50677.jpg", 
+                        "Name": "ROYAL LEPAGE REAL ESTATE SERVICES LTD.", 
+                        "OrganizationID": 50677, 
+                        "PermitFreetextEmail": true, 
+                        "PermitShowListingLink": true, 
+                        "Phones": [
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "849-3315", 
+                                "PhoneType": "Telephone", 
+                                "PhoneTypeId": "1"
+                            }, 
+                            {
+                                "AreaCode": "905", 
+                                "PhoneNumber": "338-7351", 
+                                "PhoneType": "Fax", 
+                                "PhoneTypeId": "4"
+                            }
+                        ]
+                    }, 
+                    "PermitFreetextEmail": true, 
+                    "PermitShowListingLink": true, 
+                    "Phones": [
+                        {
+                            "AreaCode": "905", 
+                            "PhoneNumber": "849-3315", 
+                            "PhoneType": "Telephone", 
+                            "PhoneTypeId": "1"
+                        }
+                    ], 
+                    "Position": "Broker", 
+                    "Websites": [
+                        {
+                            "Website": "http://www.agentjack.ca", 
+                            "WebsiteTypeId": "1"
+                        }
+                    ]
+                }
+            ], 
+            "Land": {
+                "SizeTotal": "40.00x109.59 FT"
+            }, 
+            "MlsNumber": "W3769640", 
+            "OpenHouseInsertDateUTC": "19/05/2017 6:12:44 PM", 
+            "PhotoChangeDateUTC": "26/04/2017 1:13:54 AM", 
+            "PostalCode": "L6H1J4", 
+            "PriceChangeDateUTC": "28/04/2017 1:01:10 AM", 
+            "Property": {
+                "Address": {
+                    "AddressText": "125 OAKDALE Drive |Oakville, Ontario L6H1J4", 
+                    "Latitude": "43.45951", 
+                    "Longitude": "-79.71017"
+                }, 
+                "OwnershipType": "Freehold", 
+                "Photo": [
+                    {
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636287516335030000/reb82/highres/0/w3769640_1.jpg", 
+                        "LastUpdated": "25/04/2017 9:13:53 PM", 
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636287516335030000/reb82/lowres/0/w3769640_1.jpg", 
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636287516335030000/reb82/medres/0/w3769640_1.jpg", 
+                        "SequenceId": "1"
+                    }
+                ], 
+                "Price": "$798,000", 
+                "Type": "Single Family", 
+                "TypeId": "300"
+            }, 
+            "PublicRemarks": "Loc'n10+...Sought After College Park Crt Loc'n&Move-In Ready!This 3+1 Bedrm, Det'd 2Stry Home Is Waiting For You!Freshly Painted&Updtd.Feats Incl:Hdwdflrg,L-Shaped L/R D/R W/Patio Doors To Your Backyd Oasis&16X32 I/G Pool;Mbr Has Private Balcony Overlooking The Manicured Pool Yd, Sep Ent To Fully Finished In-Law Suite. Furn'17, Hwt'17. Wdw'16.Minutes To Qew,407, Sheridan College,Schools.Rsa As Per Mpac **** EXTRAS **** Inclusions: Fridge (2), Stove (2) - \"\"As Is\"\", Bi Dishwasher, Washer & Dryer, All Elfs, Window Treatments, Pool Pump, Filter& Pool Accesories & Solar Blanket", 
+            "RelativeDetailsURL": "/Residential/Single-Family/18055612/125-OAKDALE-Drive-Oakville-Ontario-L6H1J4-College-Park", 
+            "StatusId": "1"
+        }
+    ]
+}

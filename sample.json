@@ -1,0 +1,3954 @@
+
+rCode": {
+        "Id": 200,
+        "Description": "Success (hidden)",
+        "Status": "Pins-Via-Cache:true;Sidebar-Items-Via-Cache:9;"
+    },
+    "Paging": {
+        "RecordsPerPage": 9,
+        "CurrentPage": 50,
+        "TotalRecords": 12264,
+        "MaxRecords": 15000,
+        "TotalPages": 1363,
+        "RecordsShowing": 12264,
+        "Pins": 384
+    },
+    "Results": [
+        {
+            "Id": "18166747",
+            "MlsNumber": "E3802786",
+            "PublicRemarks": "Gorgeous And Bright House In A Highly Desired Oshawa Location. Totally Renovated! Smooth Ceiling, Crown Moulding And Pot Lights On Main Floor. Hardwood Throughout. Beautiful Designed Staircase. Upgrd Gourmet Kitchen W/Quartz Countertop And Nice Backsplash. Brand New S/S Fridge And Dishwasher. Intelligent Thermostat. **** EXTRAS **** Never Used Fridge And Dishwasher, Existing Stove, Washer And Dryer, All Elfs, Window Coverings, Cac, Garage Opener With 2 Remotes, Roof August 2016, A Lot Thanks For Showing!",
+            "Building": {
+                "BathroomTotal": "3",
+                "Bedrooms": "3 + 2",
+                "StoriesTotal": "2",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1952453,
+                    "Name": "HUI QIAO",
+                    "Organization": {
+                        "OrganizationID": 248415,
+                        "Name": "JDL REALTY INC.",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/248415.jpg",
+                        "Address": {
+                            "AddressText": "105 - 95 MURAL STREET|RICHMOND HILL, ON L4B3G2"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "731-2266",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "731-8076",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "392252430"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.jdlrealty.ca",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "731-2266",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.thehomeway.ca",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "397623446"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1952453.jpg",
+                    "Position": "Salesperson",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "HUI",
+                    "LastName": "QIAO",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "1664 ERINDALE Crescent |Oshawa, Ontario L1G8A4",
+                    "Longitude": "-78.88982",
+                    "Latitude": "43.9388999"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636305531707170000/reb82/highres/6/e3802786_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636305531707170000/reb82/medres/6/e3802786_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636305531707170000/reb82/lowres/6/e3802786_1.jpg",
+                        "LastUpdated": "16/05/2017 5:39:30 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }
+                ],
+                "ParkingSpaceTotal": "6",
+                "TypeId": "300",
+                "OwnershipType": "Freehold",
+                "AmmenitiesNearBy": "Hospital, Park, Public Transit, Schools"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "46.21x115.33 FT"
+            },
+            "AlternateURL": {
+                "VideoLink": "http://www.anthonysvirtualtours.com/Agents/OL5Y4IA0N3/index.php?id=84&from=singlemessage&isappinstal"
+            },
+            "PostalCode": "L1G8A4",
+            "RelativeDetailsURL": "/Residential/Single-Family/18166747/1664-ERINDALE-Crescent-Oshawa-Ontario-L1G8A4-Samac",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "16/05/2017 9:39:31 PM"
+        },
+        {
+            "Id": "18190411",
+            "MlsNumber": "X3809693",
+            "PublicRemarks": "What A Fabulous View Of West Lake From This Raised Brick Bungalow On An Estate Lot. 150' Of Waterfront With A Property Depth Of 599.65 Ft. A Natural Gas Fireplace And Stove Keep It Cozy In Winter But Air Conditioner Keeps It Cool In The Summer. 2 Bedrooms On The Main Floor And 1 Bedroom On The Lower Level Make It Perfect For A Couple Of A Family. Great For Boating From Your Dock And A Uv Light And Reverse Osmosis Give You Peace Of Mind. Great Neighbours! **** EXTRAS **** Enjoy The Hot Tub In An Enclosed Sunroom On The Lower Level Through A Walkout From The Family Room. A Full Bathroom Is Located On The Lower Level And Another Bedroom. The Information Herein Has Not Yet Been Proofed For Discrepancies.",
+            "Building": {
+                "BathroomTotal": "2",
+                "Bedrooms": "2 + 1",
+                "StoriesTotal": "1",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1910100,
+                    "Name": "LIBBY CROMBIE",
+                    "Organization": {
+                        "OrganizationID": 261559,
+                        "Name": "ROYAL LEPAGE PROALLIANCE REALTY",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/royallepage.gif",
+                        "Address": {
+                            "AddressText": "104 MAIN STREET|PICTON, ON K0K2T0"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "476-2700",
+                                "AreaCode": "613",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "476-4883",
+                                "AreaCode": "613",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "392249619"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "476-2700",
+                            "AreaCode": "613",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "397727041"
+                        }
+                    ],
+                    "Position": "Salesperson",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "LIBBY",
+                    "LastName": "CROMBIE",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "1208 COUNTY RD 12 |Prince Edward County, Ontario K0K2T0",
+                    "Longitude": "-77.242853",
+                    "Latitude": "43.9443743"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636308107396270000/reb82/highres/3/x3809693_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636308107396270000/reb82/medres/3/x3809693_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636308107396270000/reb82/lowres/3/x3809693_1.jpg",
+                        "LastUpdated": "19/05/2017 5:12:19 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }
+                ],
+                "ParkingSpaceTotal": "4",
+                "TypeId": "300",
+                "OwnershipType": "Freehold"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "150.00x599.65 FT"
+            },
+            "PostalCode": "K0K2T0",
+            "RelativeDetailsURL": "/Residential/Single-Family/18190411/1208-COUNTY-RD-12-Prince-Edward-County-Ontario-K0K2T0-Picton",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "19/05/2017 9:12:19 PM"
+        },
+        {
+            "Id": "17921005",
+            "MlsNumber": "510700437",
+            "PublicRemarks": "Grand elegance. This fine C1885 Queen Anne Revival home sits proudly in the heart of Port Hope's historically designated district. It boasts one of the most beautiful staircases with a cantilevered sitting area above the grand entrance vestibule. An ideal live/work environment, this 3 story home offers large principle rooms all w/large windows giving spectacular sunlight, exposure & views. The 6 bedrooms all have closets. 2 additional rooms on the 3rd floor ideal for another bathroom or storage.Original detail throughout,solid brick,new 200amp electrical throughout, all rooms are wired for phone & audio, original plaster walls, maple & pine floors re-finished, re-tiled bathrooms, all done in '06. Gas boiler, 2014. In addition, the generous yard offers beautiful gardens. Only 3 owners since 1885. All parties are aware of the Port Hope Initiative.  Owner is a licensed real estate broker. HST is applicable on a portion of the house.",
+            "Building": {
+                "BathroomTotal": "2",
+                "Bedrooms": "6",
+                "StoriesTotal": "3",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1682154,
+                    "Name": "JULIE ALDIS",
+                    "Organization": {
+                        "OrganizationID": 127498,
+                        "Name": "CHESTNUT PARK REAL ESTATE LIMITED, BROKERAGE",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/127498.jpg",
+                        "Address": {
+                            "AddressText": "46 PINE ST. SOUTH|PORT HOPE, ON L1A3E9"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "925-9191",
+                                "AreaCode": "416",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "800-0240",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "398401103"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.chestnutpark.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "925-9191",
+                            "AreaCode": "416",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "800-0240",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "4"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "399931494"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1682154.jpg",
+                    "Position": "Broker",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "JULIE",
+                    "LastName": "ALDIS",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "126 WALTON Street |PORT HOPE, Ontario L1A1N5",
+                    "Longitude": "-78.29584",
+                    "Latitude": "43.95233"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636256382033800000/reb50/highres/7/510700437_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636256382033800000/reb50/medres/7/510700437_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636256382033800000/reb50/lowres/7/510700437_1.jpg",
+                        "LastUpdated": "20/03/2017 8:23:23 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Garage",
+                        "Spaces": "2"
+                    }
+                ],
+                "TypeId": "300"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "57.71 X IRREG|under 1 acre"
+            },
+            "PostalCode": "L1A1N5",
+            "RelativeDetailsURL": "/Residential/Single-Family/17921005/126-WALTON-Street-PORT-HOPE-Ontario-L1A1N5",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "21/03/2017 12:23:23 AM"
+        },
+        {
+            "Id": "18019610",
+            "MlsNumber": "510850940",
+            "PublicRemarks": "Great  bungaloft located in desirable pebble beach, close to Lake Ontario. Custom built with 4 bedrooms, 3 bathrooms and upscale features. Mostly finished basement features large recreation room, office,  bedroom, and roughed in bathroom. 2 covered porches provide great outdoor living. Great lake view to the south. Call for your personal viewing today!",
+            "Building": {
+                "BathroomTotal": "3",
+                "Bedrooms": "4",
+                "StoriesTotal": "1",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1984190,
+                    "Name": "AREND BAAYEN",
+                    "Organization": {
+                        "OrganizationID": 49137,
+                        "Name": "RE/MAX LAKESHORE REALTY INC., BROKERAGE",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/remaxoa.gif",
+                        "Address": {
+                            "AddressText": "1011 ELGIN STREET WEST|COBOURG, ON K9A5J4"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "373-7653",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "373-4096",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "398380180"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "373-7653",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "373-4096",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "4"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "399857633"
+                        }
+                    ],
+                    "Position": "Salesperson",
+                    "DesignationCodes": "CRA",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "AREND",
+                    "LastName": "BAAYEN",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                },
+                {
+                    "IndividualID": 1894532,
+                    "Name": "ANITA BAAYEN",
+                    "Organization": {
+                        "OrganizationID": 49137,
+                        "Name": "RE/MAX LAKESHORE REALTY INC., BROKERAGE",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/remaxoa.gif",
+                        "Address": {
+                            "AddressText": "1011 ELGIN STREET WEST|COBOURG, ON K9A5J4"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "373-7653",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "373-4096",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "398380180"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "373-7653",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "373-4096",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "4"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.anitabaayen.com",
+                            "WebsiteTypeId": "1"
+                        },
+                        {
+                            "Website": "http://www.facebook.com/anitabaayen",
+                            "WebsiteTypeId": "2"
+                        },
+                        {
+                            "Website": "http://www.twitter.com/@anitabaayen",
+                            "WebsiteTypeId": "4"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "397088155"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1894532.jpg",
+                    "Position": "Salesperson",
+                    "DesignationCodes": "SRES",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "ANITA",
+                    "LastName": "BAAYEN",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "760 KING Street West |COBOURG, Ontario K9A2P2",
+                    "Longitude": "-78.195176",
+                    "Latitude": "43.9571214"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636275389746600000/reb50/highres/0/510850940_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636275389746600000/reb50/medres/0/510850940_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636275389746600000/reb50/lowres/0/510850940_1.jpg",
+                        "LastUpdated": "11/04/2017 8:22:54 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    },
+                    {
+                        "Name": "Garage",
+                        "Spaces": "2"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Freehold"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "64.96 X 220.05|under 1 acre",
+                "AccessType": "Road access",
+                "LandscapeFeatures": "Landscaped"
+            },
+            "AlternateURL": {
+                "VideoLink": "http://youtu.be/jb4ATDpwexs"
+            },
+            "PostalCode": "K9A2P2",
+            "RelativeDetailsURL": "/Residential/Single-Family/18019610/760-KING-Street-West-COBOURG-Ontario-K9A2P2",
+            "StatusId": "1",
+            "OpenHouseInsertDateUTC": "21/05/2017 2:18:35 PM",
+            "HasOpenHouseUpdate": true,
+            "PhotoChangeDateUTC": "12/04/2017 12:22:54 AM"
+        },
+        {
+            "Id": "18167391",
+            "MlsNumber": "X3803314",
+            "PublicRemarks": "Property For Sale Located At 192 Brimley Rd. S.,Grafton, Ontario, 25 Acres On Town Water. 1300 X 950 Rectangular. 2 Mins. To 40. 1 Hr. T.0. 2 Bedroom Bungalow. 1 Bath. Full Basement.Forced Air Heating/Oil.Air Conditioner.Approx.14 Yrs Old. Unoccupied. 48 X 32 Foot Steel Shop. Pond And Small Stream.24 X 16 Ft Cabin With Hydro, Fully Insulated, Drywalled, Roughed In Bathroom. 14 Ft Ceiling, Pre-Finished White Pine Siding, Steel Roof. 250 X 300 Ft Severed Bldg. **** EXTRAS **** Lot With Bldg Permit Available. The Southerly 2/3 Of Property Under Environmental Control. => More Info Avail Click=> 'Go ToListing' Or 'Multimedia' On Mobile Device.",
+            "Building": {
+                "BathroomTotal": "0",
+                "Bedrooms": "2 + 1",
+                "StoriesTotal": "1",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1851727,
+                    "Name": "JAMES R. TASCA",
+                    "Organization": {
+                        "OrganizationID": 273408,
+                        "Name": "ICI SOURCE REAL ASSET SERVICES INC.",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/273408.jpg",
+                        "Address": {},
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "517-6424",
+                                "AreaCode": "888",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "517-6424",
+                                "AreaCode": "888",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "392246376"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.icisource.ca",
+                                "WebsiteTypeId": "1"
+                            },
+                            {
+                                "Website": "https://www.facebook.com/ICI-Source-Real-Asset-Services-Inc-Brokerage-116416071712055/",
+                                "WebsiteTypeId": "2"
+                            },
+                            {
+                                "Website": "https://www.linkedin.com/company/ici-source-real-asset-services-inc-brokerage?trk=company_logo",
+                                "WebsiteTypeId": "3"
+                            },
+                            {
+                                "Website": "https://twitter.com/icisource",
+                                "WebsiteTypeId": "4"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "624-2105",
+                            "AreaCode": "855",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "PhoneNumber": "624-2105",
+                            "AreaCode": "855",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.icisource.com",
+                            "WebsiteTypeId": "1"
+                        },
+                        {
+                            "Website": "https://www.linkedin.com/in/jamestasca",
+                            "WebsiteTypeId": "3"
+                        },
+                        {
+                            "Website": "https://twitter.com/jrtasca",
+                            "WebsiteTypeId": "4"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "391378447"
+                        }
+                    ],
+                    "Position": "Broker of record",
+                    "DesignationCodes": "CCIM PLE",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "JAMES R.",
+                    "LastName": "TASCA",
+                    "CccMember": true,
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "192 BRIMLEY Road |Grafton, Ontario K0K2G0",
+                    "Longitude": "-78.02567",
+                    "Latitude": "43.97827"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636304762889900000/reb86/highres/4/x3803314_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636304762889900000/reb86/medres/4/x3803314_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636304762889900000/reb86/lowres/4/x3803314_1.jpg",
+                        "LastUpdated": "15/05/2017 8:18:08 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Freehold"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "1000.00x950.00 FT|10 - 24.99 acres"
+            },
+            "AlternateURL": {
+                "BrochureLink": "https://listedbyseller.ca/property/id/landing-page/192-Brimley-Rd-S-Grafton-Ontario-LP",
+                "DetailsLink": "https://listedbyseller.ca/property/id/landing-page/192-Brimley-Rd-S-Grafton-Ontario-LP",
+                "PhotoLink": "https://listedbyseller.ca/property/id/landing-page/192-Brimley-Rd-S-Grafton-Ontario-LP"
+            },
+            "PostalCode": "K0K2G0",
+            "RelativeDetailsURL": "/Residential/Single-Family/18167391/192-BRIMLEY-Road-Grafton-Ontario-K0K2G0",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "16/05/2017 12:18:09 AM"
+        },
+        {
+            "Id": "18155182",
+            "MlsNumber": "550490387",
+            "PublicRemarks": "A beautiful century home located in an old orchard in the heart of Prince Edward County! This stunning 3-acre property has 5-bedrooms and a hops barn. There is an orchard of 50 organic apple trees and 5 pear trees. The property sits on the crest of a rolling hill facing south. The home features much of it's original charm with 16 inch baseboards, 10 foot ceilings, original fireplace in the dining room as well as 2 special windows (9 panes over 6) still intact along with a carriage house attached to the kitchen. The house also features the original pantry and an abundance of storage areas. The centre hall plan has a central staircase and a back staircase. Lots of opportunity to continue the restoration! Besides a storage barn, the property has 2 income apartments as well as a gazebo and an above ground pool! This property has unlimited potential!",
+            "Building": {
+                "BathroomTotal": "2",
+                "Bedrooms": "5",
+                "StoriesTotal": "1.5",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1433676,
+                    "Name": "ELIZABETH CROMBIE",
+                    "Organization": {
+                        "OrganizationID": 52571,
+                        "Name": "ROYAL LEPAGE PROALLIANCE REALTY, Brokerage - PICTON",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/52571.jpg",
+                        "Address": {
+                            "AddressText": "104 Main Street|PICTON, ON K0K2T0"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "476-2700",
+                                "AreaCode": "613",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "476-4883",
+                                "AreaCode": "613",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "398538873"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.discoverroyallepage.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "476-2700",
+                            "AreaCode": "613",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "476-4883",
+                            "AreaCode": "613",
+                            "PhoneTypeId": "4"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "PhoneNumber": "476-0096",
+                            "AreaCode": "877",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.pictonhomes.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "398752190"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1433676.jpg",
+                    "Position": "Sales Person",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "ELIZABETH",
+                    "LastName": "CROMBIE",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "14900 LOYALIST PKWY W|BLOOMFIELD, Ontario K0K1G0",
+                    "Longitude": "-77.257505",
+                    "Latitude": "43.9801341"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636306278581270000/reb100/highres/7/550490387_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636306278581270000/reb100/medres/7/550490387_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636306278581270000/reb100/lowres/7/550490387_1.jpg",
+                        "LastUpdated": "17/05/2017 2:24:18 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    },
+                    {
+                        "Name": "Parking Space(s)"
+                    },
+                    {
+                        "Name": "Garage",
+                        "Spaces": "3"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Freehold",
+                "AmmenitiesNearBy": "Recreation"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "258.04 X 489.44 FEET|1 - 3 acres",
+                "AccessType": "Year-round access"
+            },
+            "AlternateURL": {
+                "VideoLink": "http://youriguide.com/14900_loyalist_pkwy_prince_edward_on?unbranded"
+            },
+            "PostalCode": "K0K1G0",
+            "RelativeDetailsURL": "/Residential/Single-Family/18155182/14900-LOYALIST-PKWY-W-BLOOMFIELD-Ontario-K0K1G0",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "17/05/2017 6:24:18 PM"
+        },
+        {
+            "Id": "18159917",
+            "MlsNumber": "X3801288",
+            "PublicRemarks": "A Beautiful Century Home Located In An Old Orchard In The Heart Of Prince Edward County! This 3-Acre Property Has 5-Bedrooms & A Hops Barn. There Is An Orchard Of 50 Organic Apple Trees And 5 Pear Trees. The Home Features Much Of Its Original Charm With 16\"\" Baseboards, 10 Ft Ceilings, Original Fireplace In The Dining Room As Well As 2 Special Windows (9 Panes Over 6) Still Intact Along With A Carriage House Attached To The Kitchen. The House Also Features The **** EXTRAS **** Original Pantry And Lots Of Storage Areas. The Centre Hall Plan Has A Central Staircase And A Back Staircase. Besides A Storage Barn, The Property Has 2 Income Apartments As Well As A Gazebo And An Above Ground Pool!",
+            "Building": {
+                "BathroomTotal": "2",
+                "Bedrooms": "4 + 1",
+                "StoriesTotal": "1.5",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1910100,
+                    "Name": "LIBBY CROMBIE",
+                    "Organization": {
+                        "OrganizationID": 261559,
+                        "Name": "ROYAL LEPAGE PROALLIANCE REALTY",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/royallepage.gif",
+                        "Address": {
+                            "AddressText": "104 MAIN STREET|PICTON, ON K0K2T0"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "476-2700",
+                                "AreaCode": "613",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "476-4883",
+                                "AreaCode": "613",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "392249619"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "476-2700",
+                            "AreaCode": "613",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "397727041"
+                        }
+                    ],
+                    "Position": "Salesperson",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "LIBBY",
+                    "LastName": "CROMBIE",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "14900 LOYALIST Parkway |Prince Edward County, Ontario K0K1G0",
+                    "Longitude": "-77.2575053",
+                    "Latitude": "43.9801341"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636302121493530000/reb82/highres/8/x3801288_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636302121493530000/reb82/medres/8/x3801288_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636302121493530000/reb82/lowres/8/x3801288_1.jpg",
+                        "LastUpdated": "12/05/2017 6:55:49 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    }
+                ],
+                "ParkingSpaceTotal": "8",
+                "TypeId": "300",
+                "OwnershipType": "Freehold"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "258.04x489.44 FT|10 - 24.99 acres"
+            },
+            "PostalCode": "K0K1G0",
+            "RelativeDetailsURL": "/Residential/Single-Family/18159917/14900-LOYALIST-Parkway-Prince-Edward-County-Ontario-K0K1G0-Bloomfield",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "12/05/2017 10:55:49 PM"
+        },
+        {
+            "Id": "18165295",
+            "MlsNumber": "512440216",
+            "PublicRemarks": "Remarkable, customized, 3+2 bedroom, 3 bath bungalow, on a private, fully fenced  1/4 acre lot in a highly coveted area. Close to schools, park, shopping (new Neighbourhood Sobeys to be built 2018). Bright foyer with French doors to den/sitting room. Open concept main floor with gleaming wood floors. Gourmet, 'Chefs' Kitchen. Master bedroom suite (his and hers closets + added walkin) with new 'spa-like'  ensuite with glass enclosed shower stall and heated floors. Multiple walkouts. Sauna. Central air, central vac. Two finished levels of quality, totaling approximately 4,000 sq ft. Family room with gas fireplace. Covered rear porch/patio as well as covered front porch. Appliances included. Direct garage access from main floor laundry. Easy 401 commuter access. Minutes to VIA Rail and Cobourg Yacht Club.",
+            "Building": {
+                "BathroomTotal": "3",
+                "Bedrooms": "5",
+                "StoriesTotal": "1",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1400975,
+                    "Name": "JOHN HINMAN",
+                    "Organization": {
+                        "OrganizationID": 274598,
+                        "Name": "ROYAL LEPAGE PROALLIANCE REALTY, BROKERAGE-Cob-133",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/royallepage.gif",
+                        "Address": {
+                            "AddressText": "1111 ELGIN ST W, UNIT D9|COBOURG, ON K9A5H7"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "377-8888",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "372-4978",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "398539492"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.discoverroyallepage.ca",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "372-4216",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "4"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "PhoneNumber": "624-5418",
+                            "AreaCode": "800",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.johnsue.com",
+                            "WebsiteTypeId": "1"
+                        },
+                        {
+                            "Website": "http://www.facebook.com/johnsuesold",
+                            "WebsiteTypeId": "2"
+                        },
+                        {
+                            "Website": "http://www.linkedin.com/profile/view?id=72539245&trk=tab_pro",
+                            "WebsiteTypeId": "3"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "397257951"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1400975.jpg",
+                    "Position": "Broker",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "JOHN",
+                    "LastName": "HINMAN",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                },
+                {
+                    "IndividualID": 1400968,
+                    "Name": "SUE PEERS",
+                    "Organization": {
+                        "OrganizationID": 274598,
+                        "Name": "ROYAL LEPAGE PROALLIANCE REALTY, BROKERAGE-Cob-133",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/default/royallepage.gif",
+                        "Address": {
+                            "AddressText": "1111 ELGIN ST W, UNIT D9|COBOURG, ON K9A5H7"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "377-8888",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "372-4978",
+                                "AreaCode": "905",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "398539492"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.discoverroyallepage.ca",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "376-7309",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "372-4216",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "4"
+                        },
+                        {
+                            "PhoneType": "Pager",
+                            "PhoneNumber": "377-8888",
+                            "AreaCode": "905",
+                            "PhoneTypeId": "3"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "PhoneNumber": "624-5418",
+                            "AreaCode": "800",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.johnsue.com",
+                            "WebsiteTypeId": "1"
+                        },
+                        {
+                            "Website": "http://www.facebook.com/JohnSueSold",
+                            "WebsiteTypeId": "2"
+                        },
+                        {
+                            "Website": "http://www.linkedin.com/pub/Sue-Peers",
+                            "WebsiteTypeId": "3"
+                        },
+                        {
+                            "Website": "http://www.twitter.com/SoldbySueJohn",
+                            "WebsiteTypeId": "4"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "397362356"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/lowres/1400968.jpg",
+                    "Position": "Salesperson",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "SUE",
+                    "LastName": "PEERS",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "1007 OTTO DR|COBOURG, Ontario K9A5Y3",
+                    "Longitude": "-78.172384",
+                    "Latitude": "43.9804197"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636304478774430000/reb50/highres/6/512440216_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636304478774430000/reb50/medres/6/512440216_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636304478774430000/reb50/lowres/6/512440216_1.jpg",
+                        "LastUpdated": "15/05/2017 12:24:37 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Attached garage"
+                    },
+                    {
+                        "Name": "Garage",
+                        "Spaces": "2"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Freehold"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "61 X 202|under 1 acre",
+                "AccessType": "Road access"
+            },
+            "AlternateURL": {
+                "VideoLink": "http://plans.sensopia.com/59178d8a8edf3"
+            },
+            "PostalCode": "K9A5Y3",
+            "RelativeDetailsURL": "/Residential/Single-Family/18165295/1007-OTTO-DR-COBOURG-Ontario-K9A5Y3",
+            "StatusId": "1",
+            "OpenHouseInsertDateUTC": "15/05/2017 4:31:51 PM",
+            "PhotoChangeDateUTC": "15/05/2017 4:24:38 PM"
+        },
+        {
+            "Id": "17969886",
+            "MlsNumber": "X3747716",
+            "PublicRemarks": "For More Property Info And Photos Click Go To Listing Link. On Mobile Website Click Realtor Website Link. On Mobile Apps Click Multimedia Icon. The Matthie Farm Pays For Itself! -- 1 Beautiful Century House, 2 Charming Apartments, A Huge 2 Bay Shop, A Spacious Warehouse, A Historical Hops Barn And Above Ground Pool, On 3 Acres, In The Heart Of Prince Edward County. Bring Your Dreams And Vision To This Unique, One Of A Kind Century Home.",
+            "Building": {
+                "BathroomTotal": "2",
+                "Bedrooms": "5",
+                "StoriesTotal": "1.5",
+                "Type": "House"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1960243,
+                    "Name": "RAVI SINGH DUHRA",
+                    "Organization": {
+                        "OrganizationID": 273423,
+                        "Name": "MY MOVE REALTY",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/lowres/273423.jpg",
+                        "Address": {
+                            "AddressText": "1 YONGE STREET SUITE 1801|TORONTO, ON M5E1W7"
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "881-8680",
+                                "AreaCode": "855",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "881-8680",
+                                "AreaCode": "866",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "392254206"
+                            }
+                        ],
+                        "Designation": "Brokerage",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "881-8680",
+                            "AreaCode": "855",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "https://www.jumptolisting.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "398306257"
+                        }
+                    ],
+                    "Position": "Broker of record",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "RAVI SINGH",
+                    "LastName": "DUHRA",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true
+                }
+            ],
+            "Property": {
+                "Price": "$649,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "14900 LOYALIST Parkway North |Bloomfield, Ontario K0K1G0",
+                    "Longitude": "-77.2569912672043",
+                    "Latitude": "43.9805671744465"
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listing/TS636266740432400000/reb82/highres/6/x3747716_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listing/TS636266740432400000/reb82/medres/6/x3747716_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listing/TS636266740432400000/reb82/lowres/6/x3747716_1.jpg",
+                        "LastUpdated": "01/04/2017 8:07:23 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Detached garage"
+                    }
+                ],
+                "ParkingSpaceTotal": "13",
+                "TypeId": "300",
+                "OwnershipType": "Freehold"
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "78.65x149.18 M|2 - 4.99 acres"
+            },
+            "AlternateURL": {
+                "DetailsLink": "https://www.jumptolisting.com/X3747716",
+                "VideoLink": "https://jumptolisting.com/X3747716?vt=true"
+            },
+            "PostalCode": "K0K1G0",
+            "RelativeDetailsURL": "/Residential/Single-Family/17969886/14900-LOYALIST-Parkway-North-Bloomfield-Ontario-K0K1G0",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "02/04/2017 12:07:23 AM"
+        }
+    ],
+    "Pins": [
+        {
+            "key": "L5|42.7|-80.3",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.3",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-80.4",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.4",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-80.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.8",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-80.9",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.9",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-81",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-81.2",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-81.2",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-81.3",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.3",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-81.4",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.4",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-81.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.5",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.7|-81.7",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.7",
+            "latitude": "42.7"
+        },
+        {
+            "key": "L5|42.8|-79.1",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-79.1",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-80",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-80.2",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-80.2",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-80.3",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.3",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-80.4",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.4",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-80.5",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.5",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-80.7",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.7",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-80.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.8",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-81.2",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.2",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-81.3",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.3",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-81.4",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.4",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-81.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.5",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-81.6",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.6",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.8|-81.7",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.7",
+            "latitude": "42.8"
+        },
+        {
+            "key": "L5|42.9|-78.9",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-78.9",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79",
+            "propertyId": "0",
+            "count": 15,
+            "longitude": "-79",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.1",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-79.1",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.2",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-79.2",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.3",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-79.3",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.4",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-79.4",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.5",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-79.5",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.6",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-79.6",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.7",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-79.7",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-79.8",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-79.9",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-79.9",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-80",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-80.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.2",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-80.4",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.4",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-80.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.5",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-80.6",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.6",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-80.7",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.7",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-80.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.8",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-81.2",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81.2",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-81.3",
+            "propertyId": "0",
+            "count": 62,
+            "longitude": "-81.3",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-81.4",
+            "propertyId": "0",
+            "count": 14,
+            "longitude": "-81.4",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-81.5",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81.5",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-81.6",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81.6",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-82.1",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-82.1",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|42.9|-82.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-82.5",
+            "latitude": "42.9"
+        },
+        {
+            "key": "L5|43.1|-79.1",
+            "propertyId": "0",
+            "count": 61,
+            "longitude": "-79.1",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.2",
+            "propertyId": "0",
+            "count": 23,
+            "longitude": "-79.2",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.3",
+            "propertyId": "0",
+            "count": 21,
+            "longitude": "-79.3",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.4",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-79.4",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.5",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-79.5",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.6",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-79.6",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.7",
+            "propertyId": "0",
+            "count": 8,
+            "longitude": "-79.7",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.8",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-79.8",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-79.9",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-79.9",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.2",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.2",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.3",
+            "propertyId": "0",
+            "count": 22,
+            "longitude": "-80.3",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.4",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-80.4",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.5",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.6",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.6",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.7",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.7",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.8",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.8",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-80.9",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.9",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81.1",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.1",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81.2",
+            "propertyId": "0",
+            "count": 10,
+            "longitude": "-81.2",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81.4",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-81.4",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.5",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81.7",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.7",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.8",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-81.9",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.9",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-82.1",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-82.1",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.1|-82.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-82.2",
+            "latitude": "43.1"
+        },
+        {
+            "key": "L5|43.2|-79.1",
+            "propertyId": "0",
+            "count": 45,
+            "longitude": "-79.1",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.2",
+            "propertyId": "0",
+            "count": 18,
+            "longitude": "-79.2",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.3",
+            "propertyId": "0",
+            "count": 21,
+            "longitude": "-79.3",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.4",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-79.4",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.5",
+            "propertyId": "0",
+            "count": 22,
+            "longitude": "-79.5",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.6",
+            "propertyId": "0",
+            "count": 28,
+            "longitude": "-79.6",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.7",
+            "propertyId": "0",
+            "count": 31,
+            "longitude": "-79.7",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.8",
+            "propertyId": "0",
+            "count": 78,
+            "longitude": "-79.8",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-79.9",
+            "propertyId": "0",
+            "count": 120,
+            "longitude": "-79.9",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80",
+            "propertyId": "0",
+            "count": 73,
+            "longitude": "-80",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80.1",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.1",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80.2",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.2",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80.3",
+            "propertyId": "0",
+            "count": 12,
+            "longitude": "-80.3",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80.4",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-80.4",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80.5",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.5",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80.7",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-80.7",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-80.8",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.8",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-81",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-81.1",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.1",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-81.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.2",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-81.3",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.3",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-81.4",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.4",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-81.8",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.8",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-81.9",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81.9",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.2|-82",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-82",
+            "latitude": "43.2"
+        },
+        {
+            "key": "L5|43.3|-79.1",
+            "propertyId": "0",
+            "count": 17,
+            "longitude": "-79.1",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-79.8",
+            "propertyId": "0",
+            "count": 178,
+            "longitude": "-79.8",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-79.9",
+            "propertyId": "0",
+            "count": 96,
+            "longitude": "-79.9",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-80",
+            "propertyId": "0",
+            "count": 30,
+            "longitude": "-80",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-80.1",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-80.1",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-80.2",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-80.2",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-80.3",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-80.3",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-80.4",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.4",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-80.5",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.5",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-80.6",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-80.6",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-81.1",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.1",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-81.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.2",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-81.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.5",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.3|-81.8",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-81.8",
+            "latitude": "43.3"
+        },
+        {
+            "key": "L5|43.4|-79.7",
+            "propertyId": "0",
+            "count": 384,
+            "longitude": "-79.7",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-79.8",
+            "propertyId": "0",
+            "count": 268,
+            "longitude": "-79.8",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-79.9",
+            "propertyId": "0",
+            "count": 22,
+            "longitude": "-79.9",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80",
+            "propertyId": "0",
+            "count": 41,
+            "longitude": "-80",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.1",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-80.1",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.2",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.2",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.3",
+            "propertyId": "0",
+            "count": 31,
+            "longitude": "-80.3",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.4",
+            "propertyId": "0",
+            "count": 44,
+            "longitude": "-80.4",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.5",
+            "propertyId": "0",
+            "count": 25,
+            "longitude": "-80.5",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.6",
+            "propertyId": "0",
+            "count": 19,
+            "longitude": "-80.6",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.7",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.7",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.8",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-80.9",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.9",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-81",
+            "propertyId": "0",
+            "count": 18,
+            "longitude": "-81",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-81.1",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.1",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-81.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.5",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.4|-81.7",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-81.7",
+            "latitude": "43.4"
+        },
+        {
+            "key": "L5|43.5|-79.6",
+            "propertyId": "0",
+            "count": 116,
+            "longitude": "-79.6",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-79.7",
+            "propertyId": "0",
+            "count": 450,
+            "longitude": "-79.7",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-79.8",
+            "propertyId": "0",
+            "count": 113,
+            "longitude": "-79.8",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-79.9",
+            "propertyId": "0",
+            "count": 194,
+            "longitude": "-79.9",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80",
+            "propertyId": "0",
+            "count": 17,
+            "longitude": "-80",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.1",
+            "propertyId": "0",
+            "count": 16,
+            "longitude": "-80.1",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.2",
+            "propertyId": "0",
+            "count": 49,
+            "longitude": "-80.2",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.3",
+            "propertyId": "0",
+            "count": 24,
+            "longitude": "-80.3",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.4",
+            "propertyId": "0",
+            "count": 15,
+            "longitude": "-80.4",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.5",
+            "propertyId": "0",
+            "count": 49,
+            "longitude": "-80.5",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.6",
+            "propertyId": "0",
+            "count": 33,
+            "longitude": "-80.6",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.7",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.7",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-80.8",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.8",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-81.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.2",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-81.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.5",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.5|-81.7",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-81.7",
+            "latitude": "43.5"
+        },
+        {
+            "key": "L5|43.6|-79.4",
+            "propertyId": "0",
+            "count": 31,
+            "longitude": "-79.4",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-79.5",
+            "propertyId": "0",
+            "count": 124,
+            "longitude": "-79.5",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-79.6",
+            "propertyId": "0",
+            "count": 313,
+            "longitude": "-79.6",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-79.7",
+            "propertyId": "0",
+            "count": 328,
+            "longitude": "-79.7",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-79.8",
+            "propertyId": "0",
+            "count": 138,
+            "longitude": "-79.8",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-79.9",
+            "propertyId": "0",
+            "count": 50,
+            "longitude": "-79.9",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80",
+            "propertyId": "0",
+            "count": 20,
+            "longitude": "-80",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.1",
+            "propertyId": "0",
+            "count": 37,
+            "longitude": "-80.1",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.2",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-80.2",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.3",
+            "propertyId": "0",
+            "count": 16,
+            "longitude": "-80.3",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.4",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-80.4",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.5",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.6",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.6",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.7",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.7",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-80.9",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.9",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-81",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.6|-81.7",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-81.7",
+            "latitude": "43.6"
+        },
+        {
+            "key": "L5|43.7|-79.2",
+            "propertyId": "0",
+            "count": 41,
+            "longitude": "-79.2",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-79.3",
+            "propertyId": "0",
+            "count": 325,
+            "longitude": "-79.3",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-79.4",
+            "propertyId": "0",
+            "count": 350,
+            "longitude": "-79.4",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-79.5",
+            "propertyId": "0",
+            "count": 353,
+            "longitude": "-79.5",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-79.6",
+            "propertyId": "0",
+            "count": 139,
+            "longitude": "-79.6",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-79.7",
+            "propertyId": "0",
+            "count": 154,
+            "longitude": "-79.7",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-79.8",
+            "propertyId": "0",
+            "count": 620,
+            "longitude": "-79.8",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-79.9",
+            "propertyId": "0",
+            "count": 34,
+            "longitude": "-79.9",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-80",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-80",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-80.1",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-80.1",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-80.2",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.2",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-80.3",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.3",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-80.4",
+            "propertyId": "0",
+            "count": 15,
+            "longitude": "-80.4",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-80.5",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.5",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-81",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-81.3",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.3",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.7|-81.7",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81.7",
+            "latitude": "43.7"
+        },
+        {
+            "key": "L5|43.8|-79",
+            "propertyId": "0",
+            "count": 29,
+            "longitude": "-79",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.1",
+            "propertyId": "0",
+            "count": 118,
+            "longitude": "-79.1",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.2",
+            "propertyId": "0",
+            "count": 203,
+            "longitude": "-79.2",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.3",
+            "propertyId": "0",
+            "count": 325,
+            "longitude": "-79.3",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.4",
+            "propertyId": "0",
+            "count": 378,
+            "longitude": "-79.4",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.5",
+            "propertyId": "0",
+            "count": 211,
+            "longitude": "-79.5",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.6",
+            "propertyId": "0",
+            "count": 198,
+            "longitude": "-79.6",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.7",
+            "propertyId": "0",
+            "count": 253,
+            "longitude": "-79.7",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.8",
+            "propertyId": "0",
+            "count": 100,
+            "longitude": "-79.8",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-79.9",
+            "propertyId": "0",
+            "count": 12,
+            "longitude": "-79.9",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-80",
+            "propertyId": "0",
+            "count": 17,
+            "longitude": "-80",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-80.1",
+            "propertyId": "0",
+            "count": 10,
+            "longitude": "-80.1",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-80.2",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.2",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-80.3",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.3",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-80.7",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.7",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-80.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.8",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-80.9",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.9",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.8|-81",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81",
+            "latitude": "43.8"
+        },
+        {
+            "key": "L5|43.9|-77.1",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-77.1",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-77.2",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-77.2",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-77.3",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-77.3",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-77.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-77.5",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-78.3",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-78.3",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-78.4",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-78.4",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-78.5",
+            "propertyId": "0",
+            "count": 8,
+            "longitude": "-78.5",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-78.6",
+            "propertyId": "0",
+            "count": 12,
+            "longitude": "-78.6",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-78.7",
+            "propertyId": "0",
+            "count": 33,
+            "longitude": "-78.7",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-78.8",
+            "propertyId": "0",
+            "count": 91,
+            "longitude": "-78.8",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-78.9",
+            "propertyId": "0",
+            "count": 166,
+            "longitude": "-78.9",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79",
+            "propertyId": "0",
+            "count": 162,
+            "longitude": "-79",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.1",
+            "propertyId": "0",
+            "count": 40,
+            "longitude": "-79.1",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.2",
+            "propertyId": "0",
+            "count": 119,
+            "longitude": "-79.2",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.3",
+            "propertyId": "0",
+            "count": 304,
+            "longitude": "-79.3",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.4",
+            "propertyId": "0",
+            "count": 289,
+            "longitude": "-79.4",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.5",
+            "propertyId": "0",
+            "count": 324,
+            "longitude": "-79.5",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.6",
+            "propertyId": "0",
+            "count": 40,
+            "longitude": "-79.6",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.7",
+            "propertyId": "0",
+            "count": 41,
+            "longitude": "-79.7",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.8",
+            "propertyId": "0",
+            "count": 23,
+            "longitude": "-79.8",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-79.9",
+            "propertyId": "0",
+            "count": 25,
+            "longitude": "-79.9",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-80",
+            "propertyId": "0",
+            "count": 21,
+            "longitude": "-80",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-80.1",
+            "propertyId": "0",
+            "count": 38,
+            "longitude": "-80.1",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-80.3",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.3",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-80.7",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.7",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-80.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.8",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-80.9",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.9",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-81",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-81.4",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.4",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-81.7",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.7",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43.9|-87.7",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-87.7",
+            "latitude": "43.9"
+        },
+        {
+            "key": "L5|43|-74.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-74.2",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-79",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79.1",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-79.1",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79.2",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-79.2",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79.3",
+            "propertyId": "0",
+            "count": 18,
+            "longitude": "-79.3",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79.4",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-79.4",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79.5",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-79.5",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79.6",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-79.6",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-79.8",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-79.8",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.1",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.1",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.2",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.2",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.3",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.3",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.4",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-80.4",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.5",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.5",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.6",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.6",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.7",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.7",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-80.9",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.9",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-81",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-81",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-81.1",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-81.1",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-81.2",
+            "propertyId": "0",
+            "count": 23,
+            "longitude": "-81.2",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-81.3",
+            "propertyId": "0",
+            "count": 72,
+            "longitude": "-81.3",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-81.4",
+            "propertyId": "0",
+            "count": 19,
+            "longitude": "-81.4",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-81.6",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.6",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-82.2",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-82.2",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-82.3",
+            "propertyId": "0",
+            "count": 10,
+            "longitude": "-82.3",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|43|-82.4",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-82.4",
+            "latitude": "43"
+        },
+        {
+            "key": "L5|44.1|-76.9",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-76.9",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-77",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.1",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-77.1",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-77.2",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.3",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-77.3",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.4",
+            "propertyId": "0",
+            "count": 8,
+            "longitude": "-77.4",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.5",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-77.5",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.6",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-77.6",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.7",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-77.7",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.8",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-77.8",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-77.9",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-77.9",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-78",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.1",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-78.1",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.2",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-78.2",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.3",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-78.3",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.4",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-78.4",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-78.5",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.6",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-78.6",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.7",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-78.7",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.8",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-78.8",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-78.9",
+            "propertyId": "0",
+            "count": 11,
+            "longitude": "-78.9",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79",
+            "propertyId": "0",
+            "count": 10,
+            "longitude": "-79",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.1",
+            "propertyId": "0",
+            "count": 18,
+            "longitude": "-79.1",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.2",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-79.2",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.3",
+            "propertyId": "0",
+            "count": 33,
+            "longitude": "-79.3",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.4",
+            "propertyId": "0",
+            "count": 89,
+            "longitude": "-79.4",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.5",
+            "propertyId": "0",
+            "count": 195,
+            "longitude": "-79.5",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.6",
+            "propertyId": "0",
+            "count": 133,
+            "longitude": "-79.6",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.7",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-79.7",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.8",
+            "propertyId": "0",
+            "count": 11,
+            "longitude": "-79.8",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-79.9",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-79.9",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-80",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80.1",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.1",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80.2",
+            "propertyId": "0",
+            "count": 28,
+            "longitude": "-80.2",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80.3",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.3",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80.4",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.4",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.5",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80.7",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.7",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-80.9",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.9",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-81",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-81.7",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81.7",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.1|-81.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.8",
+            "latitude": "44.1"
+        },
+        {
+            "key": "L5|44.2|-76.2",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-76.2",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-76.3",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-76.3",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-76.4",
+            "propertyId": "0",
+            "count": 8,
+            "longitude": "-76.4",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-76.5",
+            "propertyId": "0",
+            "count": 20,
+            "longitude": "-76.5",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-76.6",
+            "propertyId": "0",
+            "count": 11,
+            "longitude": "-76.6",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-76.7",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-76.7",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-76.8",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-76.8",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-76.9",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-76.9",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-77",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-77",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-77.1",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-77.1",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-77.4",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-77.4",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-77.8",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-77.8",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-77.9",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-77.9",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-78",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.1",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-78.1",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.2",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-78.2",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.3",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-78.3",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.4",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-78.4",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.5",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-78.5",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.6",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-78.6",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.7",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-78.7",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.8",
+            "propertyId": "0",
+            "count": 11,
+            "longitude": "-78.8",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-78.9",
+            "propertyId": "0",
+            "count": 10,
+            "longitude": "-78.9",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-79",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.1",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-79.1",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.2",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-79.2",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.3",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-79.3",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.4",
+            "propertyId": "0",
+            "count": 11,
+            "longitude": "-79.4",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.5",
+            "propertyId": "0",
+            "count": 130,
+            "longitude": "-79.5",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.6",
+            "propertyId": "0",
+            "count": 12,
+            "longitude": "-79.6",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.7",
+            "propertyId": "0",
+            "count": 11,
+            "longitude": "-79.7",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.8",
+            "propertyId": "0",
+            "count": 14,
+            "longitude": "-79.8",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-79.9",
+            "propertyId": "0",
+            "count": 25,
+            "longitude": "-79.9",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-80",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80.1",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.1",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80.2",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.2",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80.3",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.3",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80.6",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.6",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80.7",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.7",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80.8",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.8",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-80.9",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-80.9",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-81.5",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-81.5",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44.2|-81.6",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-81.6",
+            "latitude": "44.2"
+        },
+        {
+            "key": "L5|44|-75.6",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-75.6",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-76.9",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-76.9",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-77",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.1",
+            "propertyId": "0",
+            "count": 18,
+            "longitude": "-77.1",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.2",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-77.2",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.3",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-77.3",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.4",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-77.4",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.5",
+            "propertyId": "0",
+            "count": 8,
+            "longitude": "-77.5",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.6",
+            "propertyId": "0",
+            "count": 2,
+            "longitude": "-77.6",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.7",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-77.7",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.8",
+            "propertyId": "0",
+            "count": 9,
+            "longitude": "-77.8",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-77.9",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-77.9",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-78",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.1",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-78.1",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.2",
+            "propertyId": "0",
+            "count": 12,
+            "longitude": "-78.2",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.3",
+            "propertyId": "0",
+            "count": 8,
+            "longitude": "-78.3",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.4",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-78.4",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.5",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-78.5",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.6",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-78.6",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.7",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-78.7",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.8",
+            "propertyId": "0",
+            "count": 27,
+            "longitude": "-78.8",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-78.9",
+            "propertyId": "0",
+            "count": 69,
+            "longitude": "-78.9",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79",
+            "propertyId": "0",
+            "count": 32,
+            "longitude": "-79",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.1",
+            "propertyId": "0",
+            "count": 6,
+            "longitude": "-79.1",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.2",
+            "propertyId": "0",
+            "count": 71,
+            "longitude": "-79.2",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.3",
+            "propertyId": "0",
+            "count": 79,
+            "longitude": "-79.3",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.4",
+            "propertyId": "0",
+            "count": 173,
+            "longitude": "-79.4",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.5",
+            "propertyId": "0",
+            "count": 246,
+            "longitude": "-79.5",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.6",
+            "propertyId": "0",
+            "count": 7,
+            "longitude": "-79.6",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.7",
+            "propertyId": "0",
+            "count": 17,
+            "longitude": "-79.7",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.8",
+            "propertyId": "0",
+            "count": 40,
+            "longitude": "-79.8",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-79.9",
+            "propertyId": "0",
+            "count": 13,
+            "longitude": "-79.9",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80",
+            "propertyId": "0",
+            "count": 11,
+            "longitude": "-80",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80.1",
+            "propertyId": "0",
+            "count": 8,
+            "longitude": "-80.1",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80.2",
+            "propertyId": "0",
+            "count": 4,
+            "longitude": "-80.2",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80.3",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.3",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80.4",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.4",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80.5",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-80.5",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80.7",
+            "propertyId": "0",
+            "count": 5,
+            "longitude": "-80.7",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-80.8",
+            "propertyId": "0",
+            "count": 3,
+            "longitude": "-80.8",
+            "latitude": "44"
+        },
+        {
+            "key": "L5|44|-81.4",
+            "propertyId": "0",
+            "count": 1,
+            "longitude": "-81.4",
+            "latitude": "44"
+        }
+    ]
+}
