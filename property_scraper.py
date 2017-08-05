@@ -1,5 +1,10 @@
 import requests
 import json
+import time
+import gevent.monkey
+gevent.monkey.patch_all()
+
+start_time = time.time()
 
 API_ENDPOINT = 'https://api2.realtor.ca/Listing.svc/PropertySearch_Post'
 
@@ -38,14 +43,18 @@ r = requests.post(API_ENDPOINT, data=data)
 current_page = r.json()['Paging']['CurrentPage']
 total_pages = r.json()['Paging']['TotalPages'] 
 
-
-while current_page <= total_pages:
-	data['CurrentPage'] = current_page
+def get_page(page_number):
+	data['CurrentPage'] = page_number
 	r = requests.post(API_ENDPOINT, data=data)
 	properties = r.json()['Results']
+	gevent.sleep(0)
 	
 	for property in properties:
-		print('MLS: {} - Postal: {} - Address: {} - Bedrooms: {} - Bathrooms: {} - Stories: {} - Price: {} - Page #: {} / {}'.format(property.get('MlsNumber', 'NO MSL NUMBER'), property.get('PostalCode', 'NO POSTAL CODE'), property.get('Property', {'error': 'No Property Key'}).get('Address', {'error': 'No Address Key'}).get('AddressText', {'error': 'No AddressText Key'}), property.get('Building', {'error': 'No Building Key'}).get('Bedrooms', {'error': 'No Bedrooms Key'}), property.get('Bedrooms', {'error': 'No Bedrroms Key'}).get('BedroomTotal', {'error': 'No BedroomTotal Key'}), property.get('Building', {'error': 'No Building Key'}).get('StoriesTotal', {'error': 'No StoriesTotal Key'}), property.get('Property', {'error': 'No Property Key'}).get('Price', {'error': 'No Price Key'}), current_page, total_pages))
+		print('MLS: {} - Postal: {} - Address: {} - Bedrooms: {} - Bathrooms: {} - Stories: {} - Price: {} - Page #: {} / {}'.format(property.get('MlsNumber', 'NO MSL NUMBER'), property.get('PostalCode', 'NO POSTAL CODE'), property.get('Property', {'error': 'No Property Key'}).get('Address', {'error': 'No Address Key'}).get('AddressText', {'error': 'No AddressText Key'}), property.get('Building', {'error': 'No Building Key'}).get('Bedrooms', {'error': 'No Bedrooms Key'}), property.get('Bedrooms', {'error': 'No Bedrroms Key'}).get('BedroomTotal', {'error': 'No BedroomTotal Key'}), property.get('Building', {'error': 'No Building Key'}).get('StoriesTotal', {'error': 'No StoriesTotal Key'}), property.get('Property', {'error': 'No Property Key'}).get('Price', {'error': 'No Price Key'}), data['CurrentPage'], total_pages))
 		print('***********')
-	
-	current_page += 1	
+
+jobs = [gevent.spawn(get_page, page_num) for page_num in range(1, total_pages+1)]
+
+gevent.joinall(jobs)
+
+print('Execution Time: {}'.format(time.time() - start_time))
